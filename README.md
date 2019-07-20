@@ -4,6 +4,9 @@ A list of open source software and resources for social science research
 ## Qualitative coding
 + QualCoder - https://github.com/ccbogel/QualCoder
 + Taguette - https://www.taguette.org/
++ ChronoViz - http://www.chronoviz.com/
++ Weft - http://www.pressure.to/qda/
++ Office-QDA-TagTree - https://jdittrich.github.io/Office-QDA-TagTree/
 
 ## Transcription
 
@@ -17,6 +20,7 @@ A list of open source software and resources for social science research
 
 ## Writing
 + Zettlr - https://github.com/Zettlr/Zettlr
++ LibreOffice - https://www.libreoffice.org/
 
 ## Outlining, mind mapping, concept mapping, argument mapping
 + CMap - https://cmap.ihmc.us/
@@ -40,8 +44,16 @@ A list of open source software and resources for social science research
 
 ## Note taking & memos
 + Notational Velocity - https://github.com/scrod/nv/
++ Skim - https://skim-app.sourceforge.io/
 
-## Databases & APIs
+## Database clients
++ Sequel Pro - https://sequelpro.com/
++ DBeaver - https://dbeaver.io/
++ DB Browser for SQLite - https://sqlitebrowser.org/
++ MySQL Workbench - https://www.mysql.com/products/workbench/
+
+## APIs
++ Publish or Perish - https://harzing.com/resources/publish-or-perish
 
 ## Geospatial tools
 + QGIS - https://www.qgis.org/en/site/
@@ -51,7 +63,7 @@ A list of open source software and resources for social science research
 ## Archiving, data curation
 
 ## Cataloguing
-+ Omeka S - https://omeka.org/s/ / https://github.com/omeka/omeka-s
++ Omeka S - https://omeka.org/s/
 + Collective Access - https://collectiveaccess.org/
 
 ## Security, privacy & confidentiality
@@ -74,9 +86,10 @@ hypothes.is - https://web.hypothes.is/
 + Audacity - https://www.audacityteam.org/
 + FFmpeg - https://ffmpeg.org/
 + LosslessCut - https://github.com/mifi/lossless-cut
++ Olive - https://olivevideoeditor.org/
 
 ## Data wrangling
-+ Open Refine - http://openrefine.org/ / https://github.com/OpenRefine/OpenRefine
++ Open Refine - http://openrefine.org/
 
 ## Network analysis & visualization
 + Gephi - https://gephi.org/
