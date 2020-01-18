@@ -7,8 +7,38 @@ A list of open source software and resources for social science research
 + ChronoViz - http://www.chronoviz.com/
 + Weft - http://www.pressure.to/qda/
 + Office-QDA-TagTree - https://jdittrich.github.io/Office-QDA-TagTree/
++ Knowtator - http://knowtator.sourceforge.net/
 
 ## Transcription
++ oTranscribe - https://otranscribe.com/ / https://github.com/oTranscribe/oTranscribe
++ Scribe Project - https://scribeproject.github.io/
++ Stories Matter - http://storytelling.concordia.ca/storiesmatter/
++ VoiceWalker - http://transcription.projects.linguistics.ucsb.edu/tools.html
++ trAVis - http://www.travis-analysis.org/
++ autoEdit2 - http://www.autoedit.io/ / https://github.com/OpenNewsLabs/autoEdit_2
++ gentle - http://lowerquality.com/gentle/ / https://github.com/lowerquality/gentle
++ https://forum.videolan.org/viewtopic.php?t=138311
++ https://wiki.videolan.org/How_to_use_VLC_for_transcription_in_linux/
++ https://tla.mpi.nl/tools/tla-tools/elan/
++ easytranscript - https://www.e-werkzeug.eu/index.php/en/products/easytranscript
++ https://wiki.ubuntuusers.de/Transkriptionsprogramme/
++ OpenScribe - https://openscribe.ca/ / https://gitlab.com/openscribe/openscribe
++ EXMARaLDA - https://exmaralda.org/en/partitur-editor-en/ / https://github.com/EXMARaLDA/exmaralda
++ PlayItSlowly - https://wiki.ubuntuusers.de/PlayItSlowly/
++ https://askubuntu.com/questions/214722/software-for-manual-audio-transcription-speech-interviews-etc
++ transcribe - https://launchpad.net/transcribe
++ Transkripshun - https://github.com/ki4jgt/Transkripshun
++ TranscriberAG - http://transag.sourceforge.net/ / https://github.com/giuliopaci/transcriber-ag
++ Parlatype - http://gkarsay.github.io/parlatype/ / https://github.com/gkarsay/parlatype
++ Anvil - http://www.anvil-software.org/
++ Folker - http://agd.ids-mannheim.de/folker.shtml
++ pmTrans - https://github.com/juanerasmoe/pmTrans
++ Sonal - http://www.sonal-info.com/
++ SoundScriber - http://www-personal.umich.edu/~ebreck/code/sscriber/
+
+## Phonetics
++ Phon - https://www.phon.ca/phon-manual/index.html
++ Open Steno Project - http://www.openstenoproject.org/
 
 ## Reference management
 + Zotero - https://www.zotero.org/
@@ -102,7 +132,7 @@ hypothes.is - https://web.hypothes.is/
 
 ## Lists
 + Open-SocSci
-+ Digital Research Tools (DIRT) Directory - http://dirtdirectory.org/
++ Digital Research Tools (DIRT) Directory - http://dirtdirectory.org/ / digitalresearchtools.pbworks.com/
 + Terroir Tools - https://wikihub.berkeley.edu/display/pbamboo/Terroir+-+Tools
 + http://echo.gmu.edu/toolcenter-wiki/index.php?title=Main_Page
 
